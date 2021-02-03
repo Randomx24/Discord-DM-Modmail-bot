@@ -1,0 +1,13 @@
+{
+    "token": "", 
+    "guildID": "",
+    "categoryID": "",
+    "useExtraStaffRole": "false",
+    "supportRoleID": "",
+    "onlineMessage": "is online",
+    "status": {
+        "statusType": "WATCHING",
+        "statusText": "private messages",
+        "statusOnlineType": "online"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "discord-dm-modmail",
+  "version": "1.3.2",
+  "description": "The best dm modmail bot for discord, free to use!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TwixGamer00",
+  "license": "SEE LICENSE IN license.md",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
