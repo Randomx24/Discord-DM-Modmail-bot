@@ -1,7 +1,7 @@
 <h1><strong>Info &amp; What is this?</strong></h1>
 <p>This is a discord bot, usable as a modmail bot! To make a new thread / ticket you just need to send the bot a private message with a question! The bot will then give a message to confirm the thread / ticket is created, the bot will make a channel in the server, there staff can reply to the messages. Or they can discuss it, because the message isn't directly sended to the ticket / thread owner! To send it to the ticket / thread owner just start your message with a . the dot will automaticly get removed from the message, so no worries about that</p>
 <h1><strong>How to use</strong></h1>
-<p>0. Download the latest release <a href="link.com" target="_blank" rel="noopener">here</a> :)</p>
+<p>0. Download the latest release <a href="https://github.com/TwixGamer00/Discord-DM-Modmail-bot/releases/latest" target="_blank" rel="noopener">here</a> :)</p>
 <p>1. Make a application in the <a href="https://discord.com/developers/applications" target="_blank" rel="noopener">discord developer portal</a></p>
 <p>2. Add a bot to the application, and copy the token. Paste this token in the config file at the field "token" Note: Don't share this token with ANYONE they can fully use your bot!</p>
 <p>3. Go to the Oauth2 tab, select "Bot" and then select "Administrator" after that copy the generated link and paste in in your browser, now you can add the bot your server!</p>
@@ -24,4 +24,4 @@
 <h1><strong>Closing tickets</strong></h1>
 <p>Its super easy to close a ticket! Just type !close in the ticket!</p>
 <h1><strong>Having Problems?</strong></h1>
-<p>If you are having problems feel free to make a ticket / issue on github and i will help you solving the issues! You can make a ticket / issue <a href="link.com" target="_blank" rel="noopener">here</a></p>
+<p>If you are having problems feel free to make a ticket / issue on github and i will help you solving the issues! You can make a ticket / issue <a href="https://github.com/TwixGamer00/Discord-DM-Modmail-bot/issues/new" target="_blank" rel="noopener">here</a></p>
