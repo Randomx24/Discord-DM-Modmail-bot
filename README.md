@@ -1,0 +1,2 @@
+# Discord-DM-Modmail-bot
+This is a discord bot, usable as a modmail bot! To make a new thread / ticket you just need to send the bot a private message with a question! The bot will then give a message to confirm the thread / ticket is created, the bot will make a channel in the server, there staff can reply to the messages. Or they can discuss it, because the message isn't directly sended to the ticket / thread owner! To send it to the ticket / thread owner just start your message with a . the dot will automaticly get removed from the message, so no worries about that!
