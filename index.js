@@ -39,7 +39,7 @@ client.on("message", async message => {
         
         var ticketGuild = client.guilds.cache.get(guildID);
         ticketGuild.channels.cache.forEach(channel => {
-                    if (channel.name == message.author.username.toLowerCase() + "-" + message.author.discriminator) {
+                    if (channel.topic == message.author.id) {
             existingTicket = true;
 
 
@@ -99,7 +99,7 @@ client.on("message", async message => {
                     
            
         }else {
-            var ticketChannel = ticketGuild.channels.cache.find(channel => channel.name === message.author.username.toLowerCase() + "-" + message.author.discriminator)
+            var ticketChannel = ticketGuild.channels.cache.find(channel => channel.topic == message.author.id)
             
             ticketChannel.send(`**${message.author.username} has sended:** ${message.content}`)
         }
